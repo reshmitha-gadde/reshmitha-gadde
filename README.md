@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Reshmitha Gadde! 👋
 
-<!--
-**reshmitha-gadde/reshmitha-gadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student | 2028
 
-Here are some ideas to get you started:
+I'm an enthusiastic ECE student passionate about digital hardware design and semiconductor technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+
+- Verilog HDL
+- Digital Electronics
+- Python Programming
+- MATLAB & Simulink
+- FPGA Development
+
+🚀 Areas of Interest
+
+- VLSI Design
+- RTL Design
+- ASIC Design
+- FPGA Development
+- Embedded Systems
+- Drone Technology
+
+🛠️ Tools
+
+- Xilinx Vivado
+- MATLAB
+- Simulink
+
+📚 Currently Learning
+
+- Verilog HDL
+- SystemVerilog
+- FPGA Implementation
+- Digital System Design
+
+📫 Connect With Me
+
+- Email: reshmithagadde@gmail.com
+- LinkedIn: "My LinkedIn" (https://www.linkedin.com/in/reshmitha-gadde-a17a7435b)
